@@ -1,0 +1,112 @@
+github.com/Mercypolamarasetty/Diet_Python
+
+Content covered in Python at DIET:
+
+Python - Guido Van Rossum 1991
+ >  interpreter 
+ > object oriented 
+ >  High-level language
+
+1. Introduction
+    A. JuPyteR and Markdown syntax
+    B. Python basics 
+    C. Static and Dynamic Input & Output Reading 
+
+2. Operators
+    A. Arithmetic Operators ( +,-,*,%,/,//,**)
+    B. Assignment Operators ( =, +=, -=, *=, %=, /=, //=) 
+    C. Comparison operators ( ==, >=, <=, !=, >, < )
+    D. Logical operators    ( and, or, not )
+    E. Bitwise Operators    ( &, |, ~, ^, >>, <<)
+    F. Identity operators   ( is, is not)
+   G. Membership operators  (in, not in )
+
+3. Variables
+
+4. Data types
+    A. int,float,bool
+    B. List,tuple,string,Dictionary, set
+
+    Comments in python
+    Dir,help,?,class ,print 
+    Version Check
+     
+
+5.  Conditional statements
+    if, else, elif
+   
+6. Iterations
+    A. for loop
+    B. while loop
+    C. for and while with else keyword
+
+7.  Data Structures
+     A. List
+     B. Strings
+     C. Tuples
+     D. Sets
+     E. Dictionary
+
+8.  Functions
+    A. System defined
+        ex: input(),print(),len(),range()
+
+    B.User defined
+
+         Types of Functions
+           i.  without arg& without return value
+           ii. without arg& with return value
+           iii. with arg& without return value
+           iv.  with arg & with return value
+
+        Based on type of argument passing
+             i. Required argument functions
+            ii. Keyword argument functions
+           iii. Default argument functions
+            iv. Variable length argument functions
+     C. Anonymous functions
+         lambda
+9. Packages and Modules
+    
+10. Comprehension
+        List
+        Dictionary
+
+11.  Filters,Map
+
+12.  Iterators and Generators
+
+13. File handling and File Data Processing
+    A. Read mode
+    B. Write mode
+    C. Append mode
+
+14. Regular Expressions
+    A. search()
+    B. match()
+    C. findall()
+    D. Special char's ( . , ^ , $ , {}, [] )
+    E. re in regx101 website
+
+15. Numpy
+    A. creating numpy arrays in different methods
+    B. eye(),zeros(),ones(),arange() and different methods
+    C. Arithmetic operations
+    D. Slicing data in array
+
+16. Pandas
+    A. Creating Series using list,tuple,dictionary
+    B. Working with Series
+    C. Creating DataFrames from Series,dictionary,list
+    D. reading csv,text files
+    E. boolean masking(filter data based on condition)
+    F. Handling Null values
+    G. working pandas dates
+    H. shape,grouby(),apply(),describe(),merge() and different methods
+
+17. Visualisation
+      A. matplotlib and Seaborn
+           line ,bar,scatter,histogram and box plots
+
+
+
